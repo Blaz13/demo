@@ -21,6 +21,7 @@ public class Book {
     }
 
     private String title;
+    private String gendre;
     private String isbn;
     private String publisher;
 
